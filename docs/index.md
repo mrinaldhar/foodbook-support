@@ -14,6 +14,10 @@ Email **webmaster.mrinal@gmail.com** and include:
 
 We aim to reply within a couple of days.
 
+## Joining a shared kitchen
+
+An invite link opens Foodbook and shows the kitchen before you join. If the link opens this website instead, tap **Open Foodbook**, or paste the invite code from the link into **Household → Have an invite?**
+
 ## Using the beta
 
 1. Install **TestFlight** from the App Store.
