@@ -9,9 +9,10 @@ Foodbook is a kitchen inventory, recipe and shopping-list app.
 Inventory, grocery lists, preferences, cooking history and add-speed metrics are
 stored locally on your iPhone using Apple SwiftData.
 
-If you use **Sync now** or join a household, inventory and grocery lists are
-also uploaded to our Supabase project so the people in that kitchen can see
-them. Sync is manual; nothing is uploaded until you sync or join.
+If you join a household or turn on **Live updates**, inventory and grocery
+lists sync with our Supabase project so the people in that kitchen can see
+them. Changes made offline upload when the connection returns. You can turn
+Live updates off and use **Sync now** instead.
 
 ## Accounts and households
 
