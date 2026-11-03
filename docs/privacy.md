@@ -55,8 +55,10 @@ Connect.
 
 ## Retention and deletion
 
-Feedback is kept while it is useful for fixing the product. Account and kitchen
-data are kept until you delete the account or ask us to remove it. Email
+Deleted inventory and grocery rows are soft-deleted so other household devices
+can remove their copies, then purged after 30 days. Feedback is kept while it is
+useful for fixing the product. Account and kitchen data are kept until you
+delete the account or ask us to remove it. Email
 **webmaster.mrinal@gmail.com** to request deletion of a feedback report or any
 data you cannot remove in the app.
 
